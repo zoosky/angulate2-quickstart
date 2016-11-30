@@ -2,8 +2,7 @@
   "name": "angulate2-quickstart",
   "version": "0.1.0",
   "scripts": {
-    "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
-    "lite": "lite-server"
+    "start": "lite-server"
   },
   "licenses": [
     {

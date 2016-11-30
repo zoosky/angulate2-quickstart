@@ -1,6 +1,6 @@
 package quickstart
 
-import angulate2._
+import angulate2.std._
 import angulate2.platformBrowser.BrowserModule
 
 @NgModule(
