@@ -21,5 +21,5 @@ Start sbt and compile the Scala.js project:
 ### Step 3
 Start the node.js `lite-server` and point your browser to `localhost:3000` (if not loaded automatically):
 ```shell
-$ npm run-script lite
+$ npm start
 ```
