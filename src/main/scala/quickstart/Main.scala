@@ -14,7 +14,7 @@ class AppModule {
 
 @Component(
   selector = "my-app",
-  template = "<h1>Hello Angular!<h1>"
+  template = "<h1>Hello Angular2!<h1>"
 )
 class AppComponent {
 
